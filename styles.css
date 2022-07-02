@@ -1,0 +1,33 @@
+div {
+    color: crimson;
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+dive {
+    background-color: yellow;
+}
+
+.fontchange {
+    font-style: initial;
+    color: blue;
+}
+
+#four {
+    color: pink;
+
+}
+
+.button {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.odd {
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
